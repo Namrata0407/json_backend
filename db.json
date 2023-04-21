@@ -1,88 +1,46 @@
 {
-  "data": [
+  "dogs": [
     {
-      "id": "d55E_KMKZ",
-      "url": "https://cdn2.thecatapi.com/images/d55E_KMKZ.jpg",
-      "width": 2160,
-      "height": 1284
+      "id": 1,
+      "name": "Cherry",
+      "age": 2,
+      "place": "Visakhapatnam",
+      "gender": "Male"
     },
     {
-      "id": "8r4M61iyS",
-      "url": "https://cdn2.thecatapi.com/images/8r4M61iyS.jpg",
-      "width": 4592,
-      "height": 2411
+      "name": "Namrata",
+      "age": "12",
+      "place": "dfdfdfd",
+      "gender": "male",
+      "id": 2
     },
     {
-      "id": "hBXicehMA",
-      "url": "https://cdn2.thecatapi.com/images/hBXicehMA.jpg",
-      "width": 1600,
-      "height": 951
+      "name": "Namr",
+      "age": "21",
+      "place": "dfdfd",
+      "gender": "female",
+      "id": 3
     },
     {
-      "id": "gVrhv_yAY",
-      "url": "https://cdn2.thecatapi.com/images/gVrhv_yAY.jpg",
-      "width": 1600,
-      "height": 1051
+      "name": "N",
+      "age": "34",
+      "place": "df",
+      "gender": "female",
+      "id": 4
     },
     {
-      "id": "vH0bd0YDH",
-      "url": "https://cdn2.thecatapi.com/images/vH0bd0YDH.jpg",
-      "width": 1335,
-      "height": 1206
-    },
-    {
-      "id": "r_njVlaSz",
-      "url": "https://cdn2.thecatapi.com/images/r_njVlaSz.jpg",
-      "width": 1920,
-      "height": 1080
-    },
-    {
-      "id": "1",
-      "url": "https://cdn2.thecatapi.com/images/d55E_KMKZ.jpg",
-      "width": 2160,
-      "height": 1284
-    },
-    {
-      "id": "2",
-      "url": "https://cdn2.thecatapi.com/images/8r4M61iyS.jpg",
-      "width": 4592,
-      "height": 2411
-    },
-    {
-      "id": "3",
-      "url": "https://cdn2.thecatapi.com/images/hBXicehMA.jpg",
-      "width": 1600,
-      "height": 951
-    },
-    {
-      "id": "4",
-      "url": "https://cdn2.thecatapi.com/images/gVrhv_yAY.jpg",
-      "width": 1600,
-      "height": 1051
-    }
-  ],
-  "hotels": [
-    {
-      "category": "Family",
-      "image_url": "https://tse1.mm.bing.net/th?id=OIP.3WLnwkfb638Uxi5MwRPyKAHaE8&pid=Api&rs=1&c=1&qlt=95&w=145&h=97",
-      "type_of_room": "AC",
-      "bed_type": "Single",
-      "no_of_persons": "2",
-      "capacity": "2",
-      "cost": "2222",
-      "booked": false,
-      "id": 1
-    },
-    {
-      "category": "Family",
-      "image_url": "https://tse1.mm.bing.net/th?id=OIP.3WLnwkfb638Uxi5MwRPyKAHaE8&pid=Api&rs=1&c=1&qlt=95&w=145&h=97",
-      "type_of_room": "AC",
-      "bed_type": "Single",
-      "no_of_persons": "6",
-      "capacity": "6",
-      "cost": "6",
-      "booked": false,
+      "name": "b",
+      "age": "34",
+      "place": "df",
+      "gender": "female",
       "id": 5
+    },
+    {
+      "name": "b",
+      "age": "34",
+      "place": "df",
+      "gender": "female",
+      "id": 6
     }
   ]
 }
