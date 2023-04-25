@@ -42,5 +42,153 @@
       "gender": "female",
       "id": 6
     }
+  ],
+  "cars": [
+    {
+      "id": 2,
+      "brand": "Tata",
+      "type": "AMT",
+      "year": 2017,
+      "kms": 8000,
+      "description": "Tata Nexon with all original documents",
+      "price": 800000
+    },
+    {
+      "brand": "Toyota",
+      "type": "AMT",
+      "year": 2019,
+      "kms": 14,
+      "description": "Tata Nexon with all original documents",
+      "price": 121345,
+      "id": 5
+    },
+    {
+      "brand": "Maruti",
+      "type": "Manual",
+      "year": 2020,
+      "kms": 15,
+      "description": "Tata Nexon with all original documents",
+      "price": 1213467,
+      "id": 6
+    },
+    {
+      "brand": "Maruti",
+      "type": "AMT",
+      "year": 2020,
+      "kms": 17,
+      "description": "Tata Nexon with all original documents",
+      "price": 34657567,
+      "id": 7
+    },
+    {
+      "brand": "Alto",
+      "type": "Manual",
+      "year": 2021,
+      "kms": 18,
+      "description": "Tata Nexon with all original documents",
+      "price": 346574,
+      "id": 8
+    },
+    {
+      "brand": "Alto",
+      "type": "AMT",
+      "year": 2023,
+      "kms": 10,
+      "description": "Tata Nexon with all original documents",
+      "price": 978657,
+      "id": 9
+    },
+    {
+      "brand": "Alto",
+      "type": "AMT",
+      "year": 2022,
+      "kms": 90,
+      "description": "Tata Nexon with all original documents",
+      "price": 978667,
+      "id": 10
+    },
+    {
+      "brand": "Maruti",
+      "type": "AMT",
+      "year": 2021,
+      "kms": 23,
+      "description": "Tata Nexon with all original documents",
+      "price": 978656,
+      "id": 11
+    },
+    {
+      "brand": "Toyota",
+      "type": "AMT",
+      "year": 2020,
+      "kms": 12,
+      "description": "Tata Nexon with all original documents",
+      "price": 121344,
+      "id": 12
+    },
+    {
+      "brand": "Tata",
+      "type": "Manual",
+      "year": 2017,
+      "kms": 34,
+      "description": "Tata Nexon with all original documents",
+      "price": 645656456,
+      "id": 13
+    },
+    {
+      "brand": "Tata",
+      "type": "AMT",
+      "year": 2020,
+      "kms": 344,
+      "description": "Tata Nexon with all original documents",
+      "price": 645656,
+      "id": 14
+    },
+    {
+      "brand": "Tata",
+      "type": "Manual",
+      "year": 2021,
+      "kms": 90,
+      "description": "Tata Nexon with all original documents",
+      "price": 12434345,
+      "id": 15
+    }
+  ],
+  "wishlisted_cars": [
+    {
+      "brand": "Tata",
+      "type": "AMT",
+      "kms": 8000,
+      "price": 800000,
+      "year": 2017,
+      "description": "Tata Nexon with all original documents",
+      "id": 1
+    },
+    {
+      "brand": "Toyota",
+      "type": "AMT",
+      "kms": 13,
+      "price": 121344,
+      "year": 2018,
+      "description": "Tata Nexon with all original documents",
+      "id": 2
+    },
+    {
+      "brand": "Maruti",
+      "type": "AMT",
+      "kms": 17,
+      "price": 34657567,
+      "year": 2020,
+      "description": "Tata Nexon with all original documents",
+      "id": 3
+    },
+    {
+      "brand": "Maruti",
+      "type": "Manual",
+      "kms": 15,
+      "price": 1213467,
+      "year": 2020,
+      "description": "Tata Nexon with all original documents",
+      "id": 4
+    }
   ]
 }
