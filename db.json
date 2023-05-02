@@ -190,5 +190,71 @@
       "description": "Tata Nexon with all original documents",
       "id": 4
     }
+  ],
+  "products": [
+    {
+      "name": "dfdf",
+      "gender": "Female",
+      "category": "Lehenga",
+      "price": 34,
+      "des": "dfdf",
+      "id": 1
+    },
+    {
+      "name": "dfdf",
+      "gender": "Female",
+      "category": "Saree",
+      "price": 3445,
+      "des": "dfdf",
+      "id": 2
+    },
+    {
+      "name": "nn",
+      "gender": "Male",
+      "category": "Suits",
+      "price": 3434,
+      "des": "nnn",
+      "id": 3
+    },
+    {
+      "name": "nn",
+      "gender": "Male",
+      "category": "Suits",
+      "price": 3434,
+      "des": "nnn",
+      "id": 4
+    },
+    {
+      "name": "nn",
+      "gender": "Male",
+      "category": "Suits",
+      "price": 3434,
+      "des": "nnn",
+      "id": 5
+    },
+    {
+      "name": "nn",
+      "gender": "Male",
+      "category": "Suits",
+      "price": 3434,
+      "des": "nnn",
+      "id": 6
+    },
+    {
+      "name": "nn",
+      "gender": "Male",
+      "category": "Suits",
+      "price": 3434,
+      "des": "nnn",
+      "id": 7
+    },
+    {
+      "name": "nn",
+      "gender": "Male",
+      "category": "Suits",
+      "price": 3434,
+      "des": "nnn",
+      "id": 8
+    }
   ]
 }
