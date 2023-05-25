@@ -1,263 +1,162 @@
 {
-  "dogs": [
+  "users": [
     {
-      "id": 1,
-      "name": "Cherry",
-      "age": 2,
-      "place": "Visakhapatnam",
-      "gender": "Male"
+      "user": "ghghh",
+      "email": "n@gmail.com",
+      "password": "n124",
+      "doctor": true,
+      "id": 1
     },
     {
-      "name": "Namrata",
-      "age": "12",
-      "place": "dfdfdfd",
-      "gender": "male",
+      "user": "ghghh",
+      "email": "a@gmail.com",
+      "password": "n124",
+      "doctor": true,
       "id": 2
     },
     {
-      "name": "Namr",
-      "age": "21",
-      "place": "dfdfd",
-      "gender": "female",
+      "user": "ghghh",
+      "email": "c@gmail.com",
+      "password": "n124",
+      "doctor": false,
       "id": 3
     },
     {
-      "name": "N",
-      "age": "34",
-      "place": "df",
-      "gender": "female",
+      "user": "ghghh",
+      "email": "d@gmail.com",
+      "password": "n124",
+      "doctor": false,
       "id": 4
     },
     {
-      "name": "b",
-      "age": "34",
-      "place": "df",
-      "gender": "female",
+      "name": "ghghgh",
+      "email": "g@gmail.com",
+      "password": "g2323",
+      "doctor": false,
       "id": 5
-    },
-    {
-      "name": "b",
-      "age": "34",
-      "place": "df",
-      "gender": "female",
-      "id": 6
     }
   ],
-  "cars": [
+  "appointments": [
     {
-      "id": 2,
-      "brand": "Tata",
-      "type": "AMT",
-      "year": 2017,
-      "kms": 8000,
-      "description": "Tata Nexon with all original documents",
-      "price": 800000
-    },
-    {
-      "brand": "Toyota",
-      "type": "AMT",
-      "year": 2019,
-      "kms": 14,
-      "description": "Tata Nexon with all original documents",
-      "price": 121345,
-      "id": 5
-    },
-    {
-      "brand": "Maruti",
-      "type": "Manual",
-      "year": 2020,
-      "kms": 15,
-      "description": "Tata Nexon with all original documents",
-      "price": 1213467,
-      "id": 6
-    },
-    {
-      "brand": "Maruti",
-      "type": "AMT",
-      "year": 2020,
-      "kms": 17,
-      "description": "Tata Nexon with all original documents",
-      "price": 34657567,
-      "id": 7
-    },
-    {
-      "brand": "Alto",
-      "type": "Manual",
-      "year": 2021,
-      "kms": 18,
-      "description": "Tata Nexon with all original documents",
-      "price": 346574,
+      "user": "gfgfg",
+      "image": "https://tse1.mm.bing.net/th?id=OIP.IVwf85npYYUcwRp4EIhqDgHaJm&pid=Api&rs=1&c=1&qlt=95&w=72&h=94",
+      "specialization": "Cardiologist",
+      "experience": "4",
+      "location": "rtrtrt",
+      "date": "2023-05-17",
+      "slots": "44",
+      "fees": "5454545",
       "id": 8
     },
     {
-      "brand": "Alto",
-      "type": "AMT",
-      "year": 2023,
-      "kms": 10,
-      "description": "Tata Nexon with all original documents",
-      "price": 978657,
+      "user": "gfgfg",
+      "image": "https://tse1.mm.bing.net/th?id=OIP.IVwf85npYYUcwRp4EIhqDgHaJm&pid=Api&rs=1&c=1&qlt=95&w=72&h=94",
+      "specialization": "Cardiologist",
+      "experience": "4",
+      "location": "rtrtrt",
+      "date": "2023-05-17",
+      "slots": "44",
+      "fees": "5454545",
       "id": 9
     },
     {
-      "brand": "Alto",
-      "type": "AMT",
-      "year": 2022,
-      "kms": 90,
-      "description": "Tata Nexon with all original documents",
-      "price": 978667,
-      "id": 10
-    },
-    {
-      "brand": "Maruti",
-      "type": "AMT",
-      "year": 2021,
-      "kms": 23,
-      "description": "Tata Nexon with all original documents",
-      "price": 978656,
+      "user": "gfgfg",
+      "image": "https://tse1.mm.bing.net/th?id=OIP.IVwf85npYYUcwRp4EIhqDgHaJm&pid=Api&rs=1&c=1&qlt=95&w=72&h=94",
+      "specialization": "Cardiologist",
+      "experience": "4",
+      "location": "rtrtrt",
+      "date": "2023-05-17",
+      "slots": "44",
+      "fees": "5454545",
       "id": 11
     },
     {
-      "brand": "Toyota",
-      "type": "AMT",
-      "year": 2020,
-      "kms": 12,
-      "description": "Tata Nexon with all original documents",
-      "price": 121344,
+      "user": "gfgfg",
+      "image": "https://tse1.mm.bing.net/th?id=OIP.IVwf85npYYUcwRp4EIhqDgHaJm&pid=Api&rs=1&c=1&qlt=95&w=72&h=94",
+      "specialization": "Cardiologist",
+      "experience": "4",
+      "location": "rtrtrt",
+      "date": "2023-05-17",
+      "slots": "44",
+      "fees": "5454545",
       "id": 12
     },
     {
-      "brand": "Tata",
-      "type": "Manual",
-      "year": 2017,
-      "kms": 34,
-      "description": "Tata Nexon with all original documents",
-      "price": 645656456,
+      "user": "gfgfg",
+      "image": "https://tse1.mm.bing.net/th?id=OIP.IVwf85npYYUcwRp4EIhqDgHaJm&pid=Api&rs=1&c=1&qlt=95&w=72&h=94",
+      "specialization": "Cardiologist",
+      "experience": "4",
+      "location": "rtrtrt",
+      "date": "2023-05-17",
+      "slots": "44",
+      "fees": "5454545",
       "id": 13
     },
     {
-      "brand": "Tata",
-      "type": "AMT",
-      "year": 2020,
-      "kms": 344,
-      "description": "Tata Nexon with all original documents",
-      "price": 645656,
+      "user": "gfgfg",
+      "image": "https://tse1.mm.bing.net/th?id=OIP.IVwf85npYYUcwRp4EIhqDgHaJm&pid=Api&rs=1&c=1&qlt=95&w=72&h=94",
+      "specialization": "Cardiologist",
+      "experience": "4",
+      "location": "rtrtrt",
+      "date": "2023-05-17",
+      "slots": "44",
+      "fees": "5454545",
       "id": 14
     },
     {
-      "brand": "Tata",
-      "type": "Manual",
-      "year": 2021,
-      "kms": 90,
-      "description": "Tata Nexon with all original documents",
-      "price": 12434345,
+      "user": "gfgfg",
+      "image": "https://tse1.mm.bing.net/th?id=OIP.IVwf85npYYUcwRp4EIhqDgHaJm&pid=Api&rs=1&c=1&qlt=95&w=72&h=94",
+      "specialization": "Cardiologist",
+      "experience": "4",
+      "location": "rtrtrt",
+      "date": "2023-05-17",
+      "slots": "44",
+      "fees": "5454545",
       "id": 15
+    },
+    {
+      "user": "fff",
+      "image": "https://tse1.mm.bing.net/th?id=OIP.IVwf85npYYUcwRp4EIhqDgHaJm&pid=Api&rs=1&c=1&qlt=95&w=72&h=94",
+      "specialization": "Cardiologist",
+      "experience": "4",
+      "location": "dfdfdf",
+      "date": "2023-05-17",
+      "slots": "3",
+      "fees": "54545",
+      "id": 16
+    },
+    {
+      "user": "fff",
+      "image": "https://tse1.mm.bing.net/th?id=OIP.IVwf85npYYUcwRp4EIhqDgHaJm&pid=Api&rs=1&c=1&qlt=95&w=72&h=94",
+      "specialization": "Cardiologist",
+      "experience": "4",
+      "location": "dfdfdf",
+      "date": "2023-05-17",
+      "slots": "3",
+      "fees": "54545",
+      "id": 17
+    },
+    {
+      "user": "fff",
+      "image": "https://tse1.mm.bing.net/th?id=OIP.IVwf85npYYUcwRp4EIhqDgHaJm&pid=Api&rs=1&c=1&qlt=95&w=72&h=94",
+      "specialization": "Cardiologist",
+      "experience": "4",
+      "location": "dfdfdf",
+      "date": "2023-05-17",
+      "slots": "3",
+      "fees": "54545",
+      "id": 18
+    },
+    {
+      "user": "fff",
+      "image": "https://tse1.mm.bing.net/th?id=OIP.IVwf85npYYUcwRp4EIhqDgHaJm&pid=Api&rs=1&c=1&qlt=95&w=72&h=94",
+      "specialization": "Cardiologist",
+      "experience": "4",
+      "location": "dfdfdf",
+      "date": "2023-05-17",
+      "slots": "3",
+      "fees": "54545",
+      "id": 19
     }
-  ],
-  "wishlisted_cars": [
-    {
-      "brand": "Tata",
-      "type": "AMT",
-      "kms": 8000,
-      "price": 800000,
-      "year": 2017,
-      "description": "Tata Nexon with all original documents",
-      "id": 1
-    },
-    {
-      "brand": "Toyota",
-      "type": "AMT",
-      "kms": 13,
-      "price": 121344,
-      "year": 2018,
-      "description": "Tata Nexon with all original documents",
-      "id": 2
-    },
-    {
-      "brand": "Maruti",
-      "type": "AMT",
-      "kms": 17,
-      "price": 34657567,
-      "year": 2020,
-      "description": "Tata Nexon with all original documents",
-      "id": 3
-    },
-    {
-      "brand": "Maruti",
-      "type": "Manual",
-      "kms": 15,
-      "price": 1213467,
-      "year": 2020,
-      "description": "Tata Nexon with all original documents",
-      "id": 4
-    }
-  ],
-  "products": [
-    {
-      "name": "dfdf",
-      "gender": "Female",
-      "category": "Lehenga",
-      "price": 34,
-      "des": "dfdf",
-      "id": 1
-    },
-    {
-      "name": "dfdf",
-      "gender": "Female",
-      "category": "Saree",
-      "price": 3445,
-      "des": "dfdf",
-      "id": 2
-    },
-    {
-      "name": "nn",
-      "gender": "Male",
-      "category": "Suits",
-      "price": 3434,
-      "des": "nnn",
-      "id": 3
-    },
-    {
-      "name": "nn",
-      "gender": "Male",
-      "category": "Suits",
-      "price": 3434,
-      "des": "nnn",
-      "id": 4
-    },
-    {
-      "name": "nn",
-      "gender": "Male",
-      "category": "Suits",
-      "price": 3434,
-      "des": "nnn",
-      "id": 5
-    },
-    {
-      "name": "nn",
-      "gender": "Male",
-      "category": "Suits",
-      "price": 3434,
-      "des": "nnn",
-      "id": 6
-    },
-    {
-      "name": "nn",
-      "gender": "Male",
-      "category": "Suits",
-      "price": 3434,
-      "des": "nnn",
-      "id": 7
-    },
-    {
-      "name": "nn",
-      "gender": "Male",
-      "category": "Suits",
-      "price": 3434,
-      "des": "nnn",
-      "id": 8
-    }
-  ],
-  "quiz":[
-    
   ]
 }
