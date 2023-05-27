@@ -158,5 +158,125 @@
       "fees": "54545",
       "id": 19
     }
+  ],
+  "freelancers": [
+    {
+      "name": "fdfdsfd",
+      "email": "m@gmail.com",
+      "password": "a123",
+      "profession": "WebDeveloper",
+      "skills": [
+        "reactjs",
+        "redux",
+        "react"
+      ],
+      "hourly_rate": "123434",
+      "profile_picture": "https://tse3.mm.bing.net/th?id=OIP.CjQiYH9rf1WNpMio1WwDqgHaFz&pid=Api&P=0&h=180",
+      "isBooked": false,
+      "id": 1
+    },
+    {
+      "name": "fdfdsfd",
+      "email": "m@gmail.com",
+      "password": "a123",
+      "profession": "WebDeveloper",
+      "skills": [
+        "reactjs",
+        "redux",
+        "react"
+      ],
+      "hourly_rate": "1234",
+      "profile_picture": "https://ptse3.mm.bing.net/th?id=OIP.CjQiYH9rf1WNpMio1WwDqgHaFz&pid=Api&P=0&h=180",
+      "isBooked": false,
+      "id": 2
+    },
+    {
+      "name": "ddddd",
+      "email": "d@gmail.com",
+      "password": "a123",
+      "profession": "WebDeveloper",
+      "skills": [
+        "reactjs",
+        "redux",
+        "react"
+      ],
+      "hourly_rate": "12349",
+      "profile_picture": "https://tse3.mm.bing.net/th?id=OIP.CjQiYH9rf1WNpMio1WwDqgHaFz&pid=Api&P=0&h=180",
+      "isBooked": true,
+      "id": 3
+    },
+    {
+      "name": "ppppp",
+      "email": "p@gmail.com",
+      "password": "a123",
+      "profession": "Student",
+      "skills": [
+        "html",
+        "css",
+        "javascript"
+      ],
+      "hourly_rate": "35456",
+      "profile_picture": "https://tse3.mm.bing.net/th?id=OIP.CjQiYH9rf1WNpMio1WwDqgHaFz&pid=Api&P=0&h=180",
+      "isBooked": false,
+      "id": 4
+    },
+    {
+      "name": "nnnnn",
+      "email": "n@gmail.com",
+      "password": "a123",
+      "profession": "Student",
+      "skills": [
+        "html",
+        "javascript"
+      ],
+      "hourly_rate": "3545",
+      "profile_picture": "https://tse3.mm.bing.net/th?id=OIP.CjQiYH9rf1WNpMio1WwDqgHaFz&pid=Api&P=0&h=180",
+      "isBooked": false,
+      "id": 5
+    },
+    {
+      "name": "vvvvvv",
+      "email": "v@gmail.com",
+      "password": "a123",
+      "profession": "GraphicDesigner",
+      "skills": [
+        "nodejs",
+        "express",
+        "mongodb"
+      ],
+      "hourly_rate": "9876",
+      "profile_picture": "https://tse3.mm.bing.net/th?id=OIP.CjQiYH9rf1WNpMio1WwDqgHaFz&pid=Api&P=0&h=180",
+      "isBooked": false,
+      "id": 6
+    },
+    {
+      "name": "ccccc",
+      "email": "c@gmail.com",
+      "password": "a123",
+      "profession": "GraphicDesigner",
+      "skills": [
+        "nodejs",
+        "express"
+      ],
+      "hourly_rate": "9875",
+      "profile_picture": "https://tse3.mm.bing.net/th?id=OIP.CjQiYH9rf1WNpMio1WwDqgHaFz&pid=Api&P=0&h=180",
+      "isBooked": false,
+      "id": 7
+    },
+    {
+      "name": "ccghggccc",
+      "email": "gc@gmail.com",
+      "password": "a123",
+      "profession": "GraphicDesigner",
+      "skills": [
+        "nodejs",
+        "express",
+        "react"
+      ],
+      "hourly_rate": "987533",
+      "profile_picture": "https://tse3.mm.bing.net/th?id=OIP.CjQiYH9rf1WNpMio1WwDqgHaFz&pid=Api&P=0&h=180",
+      "isBooked": false,
+      "id": 8
+    }
   ]
 }
