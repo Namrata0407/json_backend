@@ -1,41 +1,4 @@
 {
-  "users": [
-    {
-      "user": "ghghh",
-      "email": "n@gmail.com",
-      "password": "n124",
-      "doctor": true,
-      "id": 1
-    },
-    {
-      "user": "ghghh",
-      "email": "a@gmail.com",
-      "password": "n124",
-      "doctor": true,
-      "id": 2
-    },
-    {
-      "user": "ghghh",
-      "email": "c@gmail.com",
-      "password": "n124",
-      "doctor": false,
-      "id": 3
-    },
-    {
-      "user": "ghghh",
-      "email": "d@gmail.com",
-      "password": "n124",
-      "doctor": false,
-      "id": 4
-    },
-    {
-      "name": "ghghgh",
-      "email": "g@gmail.com",
-      "password": "g2323",
-      "doctor": false,
-      "id": 5
-    }
-  ],
   "appointments": [
     {
       "user": "gfgfg",
@@ -277,6 +240,70 @@
       "profile_picture": "https://tse3.mm.bing.net/th?id=OIP.CjQiYH9rf1WNpMio1WwDqgHaFz&pid=Api&P=0&h=180",
       "isBooked": false,
       "id": 8
+    }
+  ],
+  "users": [
+    {
+      "name": "priya",
+      "email": "n@gmail.com",
+      "password": "n123456",
+      "id": 1
+    },
+    {
+      "name": "namrata",
+      "email": "na@gmail.com",
+      "password": "n123456",
+      "id": 2
+    },
+    {
+      "name": "gfdgfdg",
+      "email": "dsdsfn@gmail.com",
+      "password": "n123456",
+      "id": 3
+    }
+  ],
+  "trackerData": [
+    {
+      "type": "Income",
+      "category": "Gifts",
+      "amount": "45435",
+      "date": "2023-06-02",
+      "id": 1
+    },
+    {
+      "type": "Income",
+      "category": "Gifts",
+      "amount": "2435",
+      "date": "2023-06-02",
+      "id": 2
+    },
+    {
+      "type": "Income",
+      "category": "Gifts",
+      "amount": "45435",
+      "date": "2023-06-02",
+      "id": 3
+    },
+    {
+      "type": "Expense",
+      "category": "Housing",
+      "amount": "5435",
+      "date": "2023-06-02",
+      "id": 4
+    },
+    {
+      "type": "Expense",
+      "category": "Shopping",
+      "amount": "7676577",
+      "date": "2023-06-02",
+      "id": 5
+    },
+    {
+      "type": "Expense",
+      "category": "Bills",
+      "amount": "7676577",
+      "date": "2023-06-02",
+      "id": 6
     }
   ]
 }
